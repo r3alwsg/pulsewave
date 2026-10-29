@@ -1,0 +1,200 @@
+{
+  "music.menu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/menu",
+        "stream": true
+      }
+    ]
+  },
+  "music.credits": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/credits",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld_day": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/overworld_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld_night": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/overworld_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld_dawn": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/overworld_dawn",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld_dusk": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/overworld_dusk",
+        "stream": true
+      }
+    ]
+  },
+  "music.rain": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/rain",
+        "stream": true
+      }
+    ]
+  },
+  "music.cave": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/cave",
+        "stream": true
+      }
+    ]
+  },
+  "music.deep_dark": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/deep_dark",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/nether",
+        "stream": true
+      }
+    ]
+  },
+  "music.end": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/end",
+        "stream": true
+      }
+    ]
+  },
+  "music.combat_pve": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/combat_pve",
+        "stream": true
+      }
+    ]
+  },
+  "music.combat_pvp": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/combat_pvp",
+        "stream": true
+      }
+    ]
+  },
+  "music.boss_wither": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/boss_wither",
+        "stream": true
+      }
+    ]
+  },
+  "music.boss_ender_dragon": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/boss_ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "music.boss_elder_guardian": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/boss_elder_guardian",
+        "stream": true
+      }
+    ]
+  },
+  "music.low_health": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/low_health",
+        "stream": true
+      }
+    ]
+  },
+  "music.combat_intense": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/combat_intense",
+        "stream": true
+      }
+    ]
+  },
+  "music.water": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/water",
+        "stream": true
+      }
+    ]
+  },
+  "music.ancient_city": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/ancient_city",
+        "stream": true
+      }
+    ]
+  },
+  "music.trial_chambers": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/trial_chambers",
+        "stream": true
+      }
+    ]
+  },
+  "music.creative": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "pulsewave:music/creative",
+        "stream": true
+      }
+    ]
+  }
+}

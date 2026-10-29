@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "pulsewave",
+  "version": "${version}",
+  "name": "Pulsewave",
+  "description": "Music that follows the moment: time, weather, caves, dimensions, combat and bosses, with smooth transitions and an in-game music manager.",
+  "authors": ["You"],
+  "license": "MIT",
+  "icon": "assets/pulsewave/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.pulsewave.PulsewaveMod"],
+    "client": ["com.pulsewave.client.PulsewaveClient"],
+    "modmenu": ["com.pulsewave.client.PulsewaveModMenu"]
+  },
+  "mixins": [
+    { "config": "pulsewave.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.pulsewave.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["MusicTrackerMixin", "SoundLoaderMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
